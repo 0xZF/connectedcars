@@ -1,4 +1,4 @@
-#Connected Cars: Computational Models for Time-Critical Safety Applications
+# Connected Cars: Computational Models for Time-Critical Safety Applications
 Primary Supervisor: Adel Nadjaran Toosi
 Co-Supervisor: Aamir Cheema
 Research Area: Data Engineering
