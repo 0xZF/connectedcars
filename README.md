@@ -7,11 +7,11 @@ Connected vehicles need to be aware of their surrounding environments. This is i
 
 ### Tasks
 
-- [] Cellular Connection
-- [] built in GPS setup (cellular)
-- [] sparkfun GPS setup 
-- [] GPS .csv upload with scheduling to cloud
-- [] Raspberry Pi setup
-- [] Object detection YOLO library
-- [] OBDII pi data
-- [] Dashcam live video
+- [ ] Cellular Connection
+- [ ] built in GPS setup (cellular)
+- [ ] sparkfun GPS setup 
+- [ ] GPS .csv upload with scheduling to cloud
+- [ ] Raspberry Pi setup
+- [ ] Object detection YOLO library
+- [ ] OBDII pi data
+- [ ] Dashcam live video
