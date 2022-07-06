@@ -12,6 +12,6 @@ Connected vehicles need to be aware of their surrounding environments. This is i
 - [ ] sparkfun GPS setup 
 - [ ] GPS .csv upload with scheduling to cloud
 - [x] Raspberry Pi setup
-- [] Object detection YOLO library
+- [ ] Object detection YOLO library
 - [ ] OBDII pi data
 - [ ] Dashcam live video
