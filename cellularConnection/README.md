@@ -9,3 +9,6 @@ setup SIM7600A hat according to diagram below. GPS reciever, main antenna and us
 Need to enable serial configuration
 make sure to run files as SUDO or will not be able to connect to hat
 
+not sure if the hat is the right one have to check bandwave with sim card because I have the north american variant
+NA = SIM7600A
+OCE = SIM7600SA
