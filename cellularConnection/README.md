@@ -12,3 +12,9 @@ make sure to run files as SUDO or will not be able to connect to hat
 not sure if the hat is the right one have to check bandwave with sim card because I have the north american variant
 NA = SIM7600A
 OCE = SIM7600SA
+
+need to include in bash script to enable serial config through terminal 
+
+deadhat sparkfun is relly finicky with power supply, if it does not get proper voltage it does not work. I can connect it and get it up and running but it only displays zeros. Ill try get better connection outside the apartmnet or something?
+
+
