@@ -15,6 +15,5 @@ OCE = SIM7600SA
 
 need to include in bash script to enable serial config through terminal 
 
-deadhat sparkfun is relly finicky with power supply, if it does not get proper voltage it does not work. I can connect it and get it up and running but it only displays zeros. Ill try get better connection outside the apartmnet or something?
 
 
