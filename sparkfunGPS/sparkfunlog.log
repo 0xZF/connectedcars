@@ -1,0 +1,353 @@
+stening for UBX Messages
+PVT(iTOW=437000, year=2019, month=9, day=8, hour=0, min=7, sec=17, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=438000, year=2019, month=9, day=8, hour=0, min=7, sec=18, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=439000, year=2019, month=9, day=8, hour=0, min=7, sec=19, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=440000, year=2019, month=9, day=8, hour=0, min=7, sec=20, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=441000, year=2019, month=9, day=8, hour=0, min=7, sec=21, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=442000, year=2019, month=9, day=8, hour=0, min=7, sec=22, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=443000, year=2019, month=9, day=8, hour=0, min=7, sec=23, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=444000, year=2019, month=9, day=8, hour=0, min=7, sec=24, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=445000, year=2019, month=9, day=8, hour=0, min=7, sec=25, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=446000, year=2019, month=9, day=8, hour=0, min=7, sec=26, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=447000, year=2019, month=9, day=8, hour=0, min=7, sec=27, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=448000, year=2019, month=9, day=8, hour=0, min=7, sec=28, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=449000, year=2019, month=9, day=8, hour=0, min=7, sec=29, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=450000, year=2019, month=9, day=8, hour=0, min=7, sec=30, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=451000, year=2019, month=9, day=8, hour=0, min=7, sec=31, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=452000, year=2019, month=9, day=8, hour=0, min=7, sec=32, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=453000, year=2019, month=9, day=8, hour=0, min=7, sec=33, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=454000, year=2019, month=9, day=8, hour=0, min=7, sec=34, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=455000, year=2019, month=9, day=8, hour=0, min=7, sec=35, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=456000, year=2019, month=9, day=8, hour=0, min=7, sec=36, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=457000, year=2019, month=9, day=8, hour=0, min=7, sec=37, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=458000, year=2019, month=9, day=8, hour=0, min=7, sec=38, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=459000, year=2019, month=9, day=8, hour=0, min=7, sec=39, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=460000, year=2019, month=9, day=8, hour=0, min=7, sec=40, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=461000, year=2019, month=9, day=8, hour=0, min=7, sec=41, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=462000, year=2019, month=9, day=8, hour=0, min=7, sec=42, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=463000, year=2019, month=9, day=8, hour=0, min=7, sec=43, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=464000, year=2019, month=9, day=8, hour=0, min=7, sec=44, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=465000, year=2019, month=9, day=8, hour=0, min=7, sec=45, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=466000, year=2019, month=9, day=8, hour=0, min=7, sec=46, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0iListening for UBX Messages
+PVT(iTOW=437000, year=2019, month=9, day=8, hour=0, min=7, sec=17, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=438000, year=2019, month=9, day=8, hour=0, min=7, sec=18, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=439000, year=2019, month=9, day=8, hour=0, min=7, sec=19, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=440000, year=2019, month=9, day=8, hour=0, min=7, sec=20, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=441000, year=2019, month=9, day=8, hour=0, min=7, sec=21, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=442000, year=2019, month=9, day=8, hour=0, min=7, sec=22, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=443000, year=2019, month=9, day=8, hour=0, min=7, sec=23, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=444000, year=2019, month=9, day=8, hour=0, min=7, sec=24, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=445000, year=2019, month=9, day=8, hour=0, min=7, sec=25, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=446000, year=2019, month=9, day=8, hour=0, min=7, sec=26, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=447000, year=2019, month=9, day=8, hour=0, min=7, sec=27, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=448000, year=2019, month=9, day=8, hour=0, min=7, sec=28, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=449000, year=2019, month=9, day=8, hour=0, min=7, sec=29, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=450000, year=2019, month=9, day=8, hour=0, min=7, sec=30, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=451000, year=2019, month=9, day=8, hour=0, min=7, sec=31, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=452000, year=2019, month=9, day=8, hour=0, min=7, sec=32, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=453000, year=2019, month=9, day=8, hour=0, min=7, sec=33, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=454000, year=2019, month=9, day=8, hour=0, min=7, sec=34, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=455000, year=2019, month=9, day=8, hour=0, min=7, sec=35, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=456000, year=2019, month=9, day=8, hour=0, min=7, sec=36, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=457000, year=2019, month=9, day=8, hour=0, min=7, sec=37, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=458000, year=2019, month=9, day=8, hour=0, min=7, sec=38, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=459000, year=2019, month=9, day=8, hour=0, min=7, sec=39, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=460000, year=2019, month=9, day=8, hour=0, min=7, sec=40, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=461000, year=2019, month=9, day=8, hour=0, min=7, sec=41, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=462000, year=2019, month=9, day=8, hour=0, min=7, sec=42, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=463000, year=2019, month=9, day=8, hour=0, min=7, sec=43, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=464000, year=2019, month=9, day=8, hour=0, min=7, sec=44, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=465000, year=2019, month=9, day=8, hour=0, min=7, sec=45, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=466000, year=2019, month=9, day=8, hour=0, min=7, sec=46, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0iListening for UBX Messages
+PVT(iTOW=437000, year=2019, month=9, day=8, hour=0, min=7, sec=17, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=438000, year=2019, month=9, day=8, hour=0, min=7, sec=18, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=439000, year=2019, month=9, day=8, hour=0, min=7, sec=19, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=440000, year=2019, month=9, day=8, hour=0, min=7, sec=20, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=441000, year=2019, month=9, day=8, hour=0, min=7, sec=21, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010368, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=442000, year=2019, month=9, day=8, hour=0, min=7, sec=22, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=443000, year=2019, month=9, day=8, hour=0, min=7, sec=23, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=444000, year=2019, month=9, day=8, hour=0, min=7, sec=24, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=445000, year=2019, month=9, day=8, hour=0, min=7, sec=25, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=446000, year=2019, month=9, day=8, hour=0, min=7, sec=26, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=447000, year=2019, month=9, day=8, hour=0, min=7, sec=27, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=448000, year=2019, month=9, day=8, hour=0, min=7, sec=28, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=449000, year=2019, month=9, day=8, hour=0, min=7, sec=29, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=450000, year=2019, month=9, day=8, hour=0, min=7, sec=30, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010624, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=451000, year=2019, month=9, day=8, hour=0, min=7, sec=31, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=452000, year=2019, month=9, day=8, hour=0, min=7, sec=32, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=453000, year=2019, month=9, day=8, hour=0, min=7, sec=33, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=454000, year=2019, month=9, day=8, hour=0, min=7, sec=34, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=455000, year=2019, month=9, day=8, hour=0, min=7, sec=35, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=456000, year=2019, month=9, day=8, hour=0, min=7, sec=36, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750010880, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=457000, year=2019, month=9, day=8, hour=0, min=7, sec=37, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=458000, year=2019, month=9, day=8, hour=0, min=7, sec=38, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=459000, year=2019, month=9, day=8, hour=0, min=7, sec=39, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=460000, year=2019, month=9, day=8, hour=0, min=7, sec=40, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=461000, year=2019, month=9, day=8, hour=0, min=7, sec=41, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=462000, year=2019, month=9, day=8, hour=0, min=7, sec=42, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011136, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=463000, year=2019, month=9, day=8, hour=0, min=7, sec=43, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0
+PVT(iTOW=464000, year=2019, month=9, day=8, hour=0, min=7, sec=44, valid=valid(validDate=0, validTime=0, fullyResolved=0, validMag=0), tAcc=4294967295, nano=0, fixType=0, flags=flags(gnssFixOK=0, diffSoln=0, psmState=0, headVehValid=0, carrSoln=0), flags2=flags2(confirmedAvai=1, confirmedDate=0, confirmedTime=0), numSV=0, lon=0.0, lat=0.0, height=0, hMSL=-17000, hAcc=4294967295, vAcc=3750011392, velN=0, velE=0, velD=0, gSpeed=0, headMot=0.0, sAcc=20000, headAcc=180.00000000000003, pDOP=99.99000000000001, flags3=flags3(invalidL1h=0), headVeh=0.0, magDec=0.0, magAcc=180.0)
+Longitude:  0.0
+Latitude:  0.0
+Heading of Motion:  0.0

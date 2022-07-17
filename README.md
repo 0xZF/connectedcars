@@ -14,6 +14,8 @@ Connected vehicles need to be aware of their surrounding environments. This is i
 - [ ] sparkfun GPS setup 
 - [ ] GPS .csv upload with scheduling to cloud
 - [x] Raspberry Pi setup
-- [ ] Object detection YOLO library
-- [ ] OBDII pi data
-- [ ] Dashcam live video
+- [x] Object detection YOLO library
+- [x] OBDII pi data
+- [x] Dashcam live video
+
+phone number for cellular connection: 0421 495 425 OPTUS
