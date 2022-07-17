@@ -1,0 +1,8 @@
+Cellular connection - Carrier does not appear to work, the board is not setup for aus? setup for na
+GPS cellular - same as above
+Dead reckoninig - setup and interfacgin wtih raspberry pi. GPS not fully functional? not sure why going to test outside and with new gps attenae maybe? will look more into source code and documentation
+csv upload - will work on when finish when I can collect more data
+rpi setup - done, need to settle on 64 bit vs 32 bit as my yolo build got broken after this especially with camera support libcamera vs legacy
+obj detection - got working but then tried to rebuild on 64 bit and performance need to fix and work on it
+obdII pi data - dont have car, emulator needs parts I dont have
+dashcam live video - easy to setup can record video alread on pi3, need mini hdmi for pi zero
