@@ -14,11 +14,13 @@ Australia Networks
 ```
 AT Commands to test
 
+```
 AT+CGMM Model Number 
 AT+CNUM Phone NUmber
 AT+CPIN? Sim card status
 AT+COPS? View operators
 AT+CSQ Signal, 99 is uknown
+```
 
 Need 
 SIM7600E-H
