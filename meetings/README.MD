@@ -51,3 +51,14 @@ Purchase compatible cellular hat
 Find out why sparkfun gps doesnt work
 Work on OBDII
 Assign tasks to people
+
+
+https://core-electronics.com.au/sim7600g-h-m2-4g-hat-for-raspberry-pi-lte-cat4-high-speed-4g3g2g-gnss-global-band-1.html
+do you need extra power for gpu accelerator
+csv append ideally 1 second but make it configurable
+cron tab
+object detection power consumption
+
+Next week thurs okay
+
+capture video with raspberry pi zero w and then process images with raspberry pi or individual frames
